@@ -3,7 +3,9 @@
 
 &emsp;&emsp;【导入Revit族】菜单界面如图16.9\-1所示；
 
-&emsp;&emsp;该插件的主要功能是在不考虑参数驱动的情况下，将Revit族转到PKPM-BIM中，**操作步骤如下：**
+&emsp;&emsp;该插件的主要功能是在不考虑参数驱动的情况下，将Revit族转到PKPM-BIM中，
+
+**操作步骤如下：**
 
 &emsp;&emsp;1\. 确保revit关闭。
 
