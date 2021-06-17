@@ -1,4 +1,4 @@
-# Python构件库
+# 17.1 Python构件库
 <br/>
 
 &emsp;&emsp;PKPM-BIM软件中的外部数据下包含【Python构件库功能】，可通过打开BIMBase文件夹，找到PythonScript文件夹并打开，找到Python环境文件夹，安装Python相关插件，Python安装及建模方方法，详见Python参数化建模手册。
