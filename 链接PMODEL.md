@@ -1,4 +1,4 @@
-#  链接PMODEL
+#  15.5 链接PMODEL
 <br/>
 
 &emsp;&emsp; 链接PMODEL模型可以将外部软件导出的PMODEL格式文件链接到PKPM BIM系统中的任意专业，用于全专业展示；
