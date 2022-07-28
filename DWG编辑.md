@@ -2,12 +2,12 @@
 <br/>
 
 ### 菜单位置
-&emsp;&emsp;菜单位置界面如下图所示
+&emsp;&emsp;菜单位置界面如下图所示：
 
 :-: ![](.topwrite/assets/image_1658977051721.png)
 
 ### 导入DWG
-&emsp;&emsp;点击菜单图标，选择需要导入到模型中的DWG文件
+&emsp;&emsp;点击菜单图标，选择需要导入到模型中的DWG文件；
 
 :-: ![](.topwrite/assets/image_1658978749512.png)
 
