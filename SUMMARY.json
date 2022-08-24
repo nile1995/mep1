@@ -78,64 +78,6 @@
         "metadata": [],
         "articles": [
             {
-                "title": "工作环境",
-                "ref": "工作环境.md",
-                "children": [
-                    {
-                        "title": "【待删除】运行环境",
-                        "ref": "运行环境.md"
-                    },
-                    {
-                        "title": "工作环境",
-                        "ref": "1工作环境.md",
-                        "children": [
-                            {
-                                "title": "【待删除】启动",
-                                "ref": "启动.md"
-                            },
-                            {
-                                "title": "【待删除】用户操作界面",
-                                "ref": "用户操作界面.md"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "【待删除】项目浏览器",
-                        "ref": "项目浏览器.md"
-                    },
-                    {
-                        "title": "【待删除】属性表",
-                        "ref": "属性表.md"
-                    }
-                ]
-            },
-            {
-                "title": "基本操作",
-                "ref": "基本操作.md",
-                "children": [
-                    {
-                        "title": "【待删除】功能键",
-                        "ref": "功能键.md"
-                    },
-                    {
-                        "title": "【待删除】精确绘图工具",
-                        "ref": "精确绘图工具.md"
-                    },
-                    {
-                        "title": "【待删除】捕捉设置",
-                        "ref": "捕捉设置.md"
-                    },
-                    {
-                        "title": "【待删除】多窗口显示设置",
-                        "ref": "多窗口显示设置.md"
-                    },
-                    {
-                        "title": "【待删除】视图模式设置",
-                        "ref": "视图模式设置.md"
-                    }
-                ]
-            },
-            {
                 "title": "工程设置",
                 "ref": "工程设置.md",
                 "children": [
@@ -1380,11 +1322,11 @@
                 "ref": "外部数据.md",
                 "children": [
                     {
-                        "title": "Python构件库",
+                        "title": "Python构件库（集成说明书有）",
                         "ref": "Python构件库.md"
                     },
                     {
-                        "title": "P-model导入与导出",
+                        "title": "P-model导入与导出（集成说明书有）",
                         "ref": "P-model导入与导出.md"
                     },
                     {
